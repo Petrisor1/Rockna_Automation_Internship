@@ -23,7 +23,8 @@
 ## Appium
 
 1. Open a terminal and run _npm i -g appium_.
-2. Run _appium_ to open server.
+2. Go to the project folder and run: _npm i_ to install all dependencies. 
+3. Run _appium_ to open server.
 
 ## Appium Inspector (needed for gathering selectors)
 
